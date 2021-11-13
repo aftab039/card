@@ -1,0 +1,65 @@
+[
+    {
+        "Course": "investment",
+        "fee": 56000,
+        "Tenure": "six month",
+        "Exp":"fresher",
+        "Type":"long term inv."
+        },
+        {
+            "Course": "trading",
+            "fee": 6000,
+            "Tenure": "one month",
+            "Exp.":"one years",
+            "Type":"short term inv."
+            },
+        {
+            "Course": "intraday",
+            "fee": 56000,
+            "Tenure": "three month",
+            "Exp.":"two years",
+            "Type":"swing trader"
+            },
+        {
+            "Course": "positional trading",
+            "fee": 50000,
+            "Tenure": "four month",
+            "Exp.":"fresher",
+            "Type":"positional trade"
+            },
+        {
+            "Course": "advisory",
+            "fee": 900000,
+            "Tenure": "one year",
+            "Exp.":"not required",
+            "Type":"wealth creation"
+            },
+        {
+            "Course": "btst",
+            "fee": 80000,
+            "Tenure": "nine month",
+            "Exp.":"ten year",
+            "Type":" Buy today"
+            },
+        {
+            "Course": "test1",
+            "fee": 80000,
+            "Tenure": "nine month",
+            "Exp.":"ten year",
+            "Type":" Buy today"
+            },
+        {
+            "Course": "test2",
+            "fee": 80000,
+            "Tenure": "nine month",
+            "Exp.":"ten year",
+            "Type":" Buy today"
+            },
+        {
+            "Course": "test3",
+            "fee": 80000,
+            "Tenure": "nine month",
+            "Exp.":"ten year",
+            "Type":" Buy today"
+            }
+]
